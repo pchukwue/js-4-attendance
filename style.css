@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#student-input {
+    text-align: left;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#attendance-list {
+    text-align: left;
+    display: inline-block;
+
+}  
